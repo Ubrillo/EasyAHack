@@ -9,6 +9,7 @@ The contract holds ETH from both buyer and seller in escrow.
 Constructor takes seller’s address, expected seller amount, and a timeout in seconds.
 ![SwapChain](shots/Capture.PNG)
 
+
 ### Frontend (React) Wallet Integration
 Built with React and Ethers.js v6.
 Connects to MetaMask using BrowserProvider and sets up a signer.
