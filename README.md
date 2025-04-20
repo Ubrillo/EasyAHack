@@ -17,6 +17,6 @@ Seller uses the UI (or MetaMask) to send a matching deposit using sellerDeposit(
 
 ### Condition Check and Swap
 The contract checks if both parties have deposited the expected amounts.
-If true, ETH is distributed accordingly (not detailed here, assumed in swap logic).
+If true, ETH is distributed accordingly.
 Timeout Refund Logic
 If the seller doesn’t deposit in time, the buyer can trigger timeoutRefund() to retrieve their funds.
