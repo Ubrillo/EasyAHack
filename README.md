@@ -13,7 +13,7 @@ Connects to MetaMask using BrowserProvider and sets up a signer.
 Displays connected wallet address.
 Deposit Flow – Buyer & Seller
 Buyer deploys the contract and deposits ETH to it.
-Seller uses the UI (or MetaMask) to send a matching deposit using sellerDeposit().
+Seller uses the UI  to send a matching deposit using sellerDeposit().
 
 ### Condition Check and Swap
 The contract checks if both parties have deposited the expected amounts.
